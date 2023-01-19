@@ -1,0 +1,13 @@
+{
+    "list" : "List",
+    "setting" : "setting",
+    "delete" : "Delete",
+    "language" : "Language",
+    "theme" : "Theme",
+    "arabic" : "Arabic",
+    "description" : "Description",
+    "add" : "Add",
+    "edit" : "Edit",
+    "ok" :"Ok",
+    "done" : "Done!"
+}
